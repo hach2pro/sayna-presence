@@ -13,7 +13,7 @@ from shared.db import (
 from shared.auth import login, logout
 
 # === CONFIGURATION ===
-SAYNA_URL = "https://www.sayna.co"           # ← remplace par ton lien
+SAYNA_URL = "https://app.sayna.io/"           # ← remplace par ton lien
 SAYNA_ADMIN_URL = "https://admin.sayna.co"   # ← remplace par ton lien admin
 
 ALL_PERMISSIONS = [
