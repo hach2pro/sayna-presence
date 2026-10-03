@@ -11,7 +11,7 @@ from shared.db import (
 from shared.auth import login, logout
 
 # === CONFIGURATION ===
-SAYNA_URL = "https://www.sayna.co"           # ← remplace par ton lien Sayna
+SAYNA_URL = "https://app.sayna.io"           # ← remplace par ton lien Sayna
 
 st.set_page_config(page_title="Sayna - Élève", page_icon="🎓", layout="wide")
 init_db()
