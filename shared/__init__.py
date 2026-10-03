@@ -1,0 +1,1 @@
+# Ce fichier rend le dossier "shared" importable comme package Python
