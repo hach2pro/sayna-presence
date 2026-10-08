@@ -58,7 +58,7 @@ def page_login_admin():
         else:
             st.session_state["admin_id"] = user["id"]
             st.rerun()
-    st.caption("Admin principal par défaut : admin@sayna.com / admin123 (changez-le après connexion !)")
+    st.caption("0011001")
 
 
 # ============================================================
